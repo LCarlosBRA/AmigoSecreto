@@ -16,3 +16,5 @@
 <div align="center">
  <img src="https://github.com/user-attachments/assets/6dfb8958-2486-423a-9799-ab70bc21fce5" width="700px" />
 </div>
+
+Você pode acessar o site por este link: https://lcarlosbra.github.io/AmigoSecreto/
